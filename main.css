@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+   box-sizing: border-box;
+}
+
+.reels{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    flex-direction:column ;
+    gap: 150px;
+}
